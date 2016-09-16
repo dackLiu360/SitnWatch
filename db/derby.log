@@ -1,0 +1,31 @@
+Fri Sep 16 09:58:59 BRT 2016 : Apache Derby Servidor de Rede - 10.10.2.0 - (1582446) iniciado e pronto para aceitar conexões na porta 1527 em {3}
+----------------------------------------------------------------
+Fri Sep 16 10:01:37 BRT 2016:
+ Inicializando o Derby versão The Apache Software Foundation - Apache Derby - 10.10.2.0 - (1582446): instância a816c00e-0157-3314-1e8e-ffffd5f7ae9b
+no diretório de banco de dados C:\Temp\SitnWatch\SitnWatch\db\SitnWatch 
+
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_40-b26
+user.dir=C:\Temp\glassfish-4.1\glassfish4\javadb
+os.name=Windows 7
+os.arch=amd64
+os.version=6.1
+derby.system.home=C:\Temp\SitnWatch\SitnWatch\db
+Carregador de classe do banco de dados iniciado - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Sep 16 10:01:50 BRT 2016:
+Encerrando a instância a816c00e-0157-3314-1e8e-ffffd5f7ae9b
+Fri Sep 16 10:01:50 BRT 2016 Thread[DRDAConnThread_2,5,main] (DATABASE = SitnWatch), (DRDAID = {2}), Banco de dados 'SitnWatch' fechado.
+----------------------------------------------------------------
+Fri Sep 16 10:02:37 BRT 2016:
+ Inicializando o Derby versão The Apache Software Foundation - Apache Derby - 10.10.2.0 - (1582446): instância 560740aa-0157-3314-1e8e-ffffd5f7ae9b
+no diretório de banco de dados C:\Temp\SitnWatch\SitnWatch\db\SitnWatch 
+
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_40-b26
+user.dir=C:\Temp\glassfish-4.1\glassfish4\javadb
+os.name=Windows 7
+os.arch=amd64
+os.version=6.1
+derby.system.home=C:\Temp\SitnWatch\SitnWatch\db
+Carregador de classe do banco de dados iniciado - derby.database.classpath=''
