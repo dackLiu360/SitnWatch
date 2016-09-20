@@ -32,8 +32,8 @@
 
         <footer class="clearfix">
             <p>
-            <input type="checkbox" name="remember" id="remember"/>    
             <label for="remember">Remember passsword</label>
+            <input type="checkbox" name="remember" id="remember"/>    
             </p>
 
           <p><span class="info">?</span><a href="#">Forgot Password</a></p>
